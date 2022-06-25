@@ -1,0 +1,6 @@
+[submodule "ext/flac"]
+	path = ext/flac
+	url = https://github.com/xiph/flac.git
+[submodule "ext/archive"]
+	path = ext/archive
+	url = https://github.com/libarchive/libarchive.git
